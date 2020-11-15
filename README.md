@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **doubleZ0108/doubleZ0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,11 +19,11 @@ Here are some ideas to get you started:
 	<h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer🐒</h5>
 <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201115234616.JPG"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201115234616.JPG" height="150px" width="150px"/></a>
+<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxNTE2OTU5NQ==&scene=124#wechat_redirect"><img src="img/jjyT.jpg" height="150px" width="150px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.doublez.site"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201004210600.jpg" height="150px" width="150px"/></a>
+<a href="https://www.doublez.site"><img src="img/doubleZ-avatar.jpg" height="150px" width="150px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/doubleZ0108"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201115233813.png" height="150px" width="150px"/>
+<a href="https://github.com/doubleZ0108"><img src="img/github-icon.png" height="150px" width="150px"/>
 
 </p>
 
