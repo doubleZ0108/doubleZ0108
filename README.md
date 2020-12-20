@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 	<h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer🐒</h5>
 <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxNTE2OTU5NQ==&scene=124#wechat_redirect"><img src="img/jjyT.png" height="150px" width="150px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.doublez.site"><img src="img/doubleZ-avatar.png" height="150px" width="150px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/doubleZ0108"><img src="img/github-icon.png" height="150px" width="150px"/>
+<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxNTE2OTU5NQ==&scene=124#wechat_redirect"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175534.png" height="150px" width="150px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+<a href="https://www.doublez.site"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175456.png" height="150px" width="150px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/doubleZ0108"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175516.png" height="150px" width="150px"/>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+<a href="#"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175649.png" height="150px" width="150px"/>
 
 
 <hr />
@@ -31,3 +33,5 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=doubleZ0108&show_icons=true"/>
 </p>
+
+
