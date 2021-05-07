@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 
 <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210426211535.jpg" height="145px" width="145px"/>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-  <a href="https://www.doublez.site"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175456.png" height="145px" width="145px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-  <a href="https://github.com/doubleZ0108"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175516.png" height="145px" width="145px"/>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-  <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175649.png" height="145px" width="145px"/>
+  <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210426211535.jpg" height="140px" width="140px"/>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="https://www.doublez.site"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175456.png" height="130px" width="130px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="https://www.zhihu.com/people/doubleZ0108/posts"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210507170020.png" height="75px" width="145px"/>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/doubleZ0108/"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210507170514.png" height="95px" width="95px"/>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175649.png" height="130px" width="130px"/>
 </p>
 
 <hr />
@@ -35,6 +37,5 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=doubleZ0108&show_icons=true"/>
 </p>
-
 
 
