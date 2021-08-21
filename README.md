@@ -32,10 +32,11 @@ Here are some ideas to get you started:
   <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210727101854.jpg" align="bottom"  width="120px"/>
 </p>
 
+<!--
 <hr />
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=doubleZ0108&show_icons=true"/>
 </p>
-
+-->
 
