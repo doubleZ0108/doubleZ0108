@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mp.weixin.qq.com/s/FGwGCH6CgmjgbYKO72PSLw"><img src="img/jjyT-logo.png" align="bottom" width="110px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<a href="https://www.doublez.site"><img src="img/doublez-site.png" align="bottom" width="80px" /></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<a href="https://www.skypixel.com/users/djiuser-veime0bt9szf"><img src="img/dji-logo.png" align="bottom" width="100px" /></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<a href="https://www.zhihu.com/people/doubleZ0108/posts"><img src="img/zhihu-logo.png" align="bottom" height="50px" width="110px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/doubleZ0108"><img src="img/linkedin-logo.png" align="bottom" width="80px" /></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<a href="http://www.doublez.site/blogs/Six-past-TwentyTwo"><img src="img/six-past-twentytwo-logo.png" align="bottom" width="110px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://mp.weixin.qq.com/s/FGwGCH6CgmjgbYKO72PSLw"><img src="img/jjyT-logo.png" align="bottom" width="100px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.doublez.site"><img src="img/doublez-site.png" align="bottom" width="75px" /></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.skypixel.com/users/djiuser-veime0bt9szf"><img src="img/dji-logo.png" align="bottom" width="85px" /></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.zhihu.com/people/doubleZ0108/posts"><img src="img/zhihu-logo.png" align="bottom" height="45px" width="100px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/doubleZ0108"><img src="img/linkedin-logo.png" align="bottom" width="75px" /></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="http://www.doublez.site/blogs/Six-past-TwentyTwo"><img src="img/six-past-twentytwo-logo.png" align="bottom" width="100px"/></a>
 </p>
 
 
