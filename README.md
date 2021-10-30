@@ -21,19 +21,18 @@ Here are some ideas to get you started:
 
 <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210727101906.jpg" align="bottom"  width="110px"/>
+<a href="https://mp.weixin.qq.com/s/FGwGCH6CgmjgbYKO72PSLw"><img src="img/jjyT-logo.jpg" align="bottom"  width="110px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <a href="https://www.doublez.site"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175456.png" align="bottom"  width="90px" /></a>
+<a href="https://www.doublez.site"><img src="img/doublez-site.png" align="bottom"  width="90px" /></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <a href="https://www.zhihu.com/people/doubleZ0108/posts"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210507170020.png"  align="bottom"  height="65px" width="135px"/>
+<a href="https://www.zhihu.com/people/doubleZ0108/posts"><img src="img/zhihu-logo.png" align="bottom"  height="65px" width="135px"/>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/doubleZ0108/"><img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210507170514.png"   align="bottom"  width="80px" />
+<a href="https://www.linkedin.com/in/doubleZ0108/"><img src="img/linkedin-logo.png" align="bottom"  width="80px" />
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210727101854.jpg" align="bottom"  width="120px"/>
+<a href="https://github.com/doubleZ0108/Six-past-TwentyTwo"><img src="img/six-past-twentytwo-logo.jpg" align="bottom"  width="120px"/></a>
 </p>
 
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=doubleZ0108&show_icons=true"/>
 </p>
-
