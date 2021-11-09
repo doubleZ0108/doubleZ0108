@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <h3 align="center">张喆｜Zhe ZHANG(doubleZ)</h3>
-  <h5 align="center">不想当艺术家🎨的演讲者🎙不是好程序员🐒</h5>
-  <h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer🐒</h5>
+  <h5 align="center">不想当艺术家🎨的演讲者🎙不是好程序员💻</h5>
+  <h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer💻</h5
 </p>
+<!-- 
+blur: 5px 0.22%
+border-radius: 20px 
+-->
 
 <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
