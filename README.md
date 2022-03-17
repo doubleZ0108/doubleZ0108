@@ -40,9 +40,34 @@ border-radius: 20px
 
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doubleZ0108&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=20"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=doubleZ0108&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="66%" />
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubleZ0108&layout=compact)](https://github.com/doubleZ0108/github-readme-stats)
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doubleZ0108&count_private=true&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=5" />
+</p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doubleZ0108)](https://github.com/doubleZ0108/github-readme-stats) -->
+<!-- <p align = "center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doubleZ0108&background=050a27&ring=4A54BC&fire=4A54BC&currStreakNum=4A54BC&currStreakLabel=fff&sideNums=ccc&sideLabels=ccc&dates=ccc"/>
+</p> -->
+
+
+
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doubleZ0108)](https://github.com/doubleZ0108/github-readme-stats) 
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubleZ0108&layout=compact&hide=C#,ASP.NET)
+
+
+![](https://profile-counter.glitch.me/doubleZ0108/count.svg)
+
+![](https://visitor-badge.glitch.me/badge?page_id=doubleZ0108.readme)
+
+<p align = "center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=doubleZ0108&bg_color=050a27&color=cccccc&line=4a54bc&point=cccccc&area=true&hide_border=true"/>
+</p>
+
+-->
