@@ -19,9 +19,9 @@
 </p>
 
 
-<p align = "center">
+<!-- <p align = "center">
   <img src="https://github-profile-trophy.vercel.app/?username=doubleZ0108&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
-</p>
+</p> -->
 
 
 
